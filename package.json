@@ -10,7 +10,7 @@
   "dependencies": {
     "acorn": "^7.1.1",
     "core-js": "^3.4.4",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "vue": "^2.6.10"
   },
   "devDependencies": {
